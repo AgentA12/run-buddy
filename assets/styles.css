@@ -66,6 +66,7 @@
   footer {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
     background: #fce138;
     padding: 40px 35px;
     width: 100%;

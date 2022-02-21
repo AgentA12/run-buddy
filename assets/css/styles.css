@@ -127,6 +127,11 @@ header{
 }
 /*--what we so styles end--*/
 
+.intro{
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+
 /*--what you do start--*/
 .steps{
     text-align: center;

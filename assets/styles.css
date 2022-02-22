@@ -208,7 +208,11 @@
   } 
   /* HERO STYLES END */
   
-  
+  .contact-form input:focus, .contact-form textarea:focus{
+    background-color: rgba(2, 78, 118, .1);
+  }
+
+
   /* SECTION TITLE STYLES START */
   .section-title {
     padding-bottom: 20px;
